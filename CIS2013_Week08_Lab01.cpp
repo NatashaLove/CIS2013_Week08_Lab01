@@ -6,6 +6,8 @@ using namespace std;
 int main () {
 	int number=0;
 	char cont = 'y';
+	
+	// Asks for numbers to be put into a file
 	ofstream out_a;
 	
 	// out_a - object; open = method; Opens location to store data
